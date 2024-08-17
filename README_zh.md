@@ -1,4 +1,7 @@
-# KBBeat
+# KBBeat（游戏名称暂无中文翻译）
+
+原仓库: [KBBeat](https://github.com/Ferpakenameyea/KBBeat)
+
 KBBeat(KeyBoard Beat) MC的大虾原创
 
 此版本仅用于北京航空航天大学2024年软件学院程序设计实践Unity3D教程参考，游戏创作者不对抄袭等非法行为带来的后果负责。
