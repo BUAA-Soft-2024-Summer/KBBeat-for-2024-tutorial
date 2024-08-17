@@ -1,10 +1,13 @@
 # KBBeat
+
+-zh_CN [简体中文](README_zh.md)
+
 KBBeat(KeyBoard Beat) Official by MCDaxia
+
+Original Repository: [KBBeat](https://github.com/Ferpakenameyea/KBBeat)
 
 This version is only for BUAA-Software-2024 Unity3D tutorial, the creator is not
 responsible for any illegal actions including project copying.
-
--zh_CN [简体中文](README_zh.md)
 
 ----
 ## The original repository README.md
